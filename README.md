@@ -7,12 +7,12 @@
 </head>
 <body>
     <header>
-        <h1>Bienvenido a mi Sitio Web</h1>
+        <h1>Bienvenido a mi Sitio Web Aliesleiner</h1>
         <nav>
             <ul>
 <header>
     <img src="carbon armor.jpg" alt="Logotipo del Sitio Web" width="100" height="100">
-    <h1>Mi Sitio Web Profesional</h1>
+    <h1>Mi Sitio Web Profesional Aliesleiner</h1>
     <nav>
         <ul>
             <li><a href="#inicio">Inicio</a></li>
