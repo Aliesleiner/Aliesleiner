@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a mi Sitio Web</h1>
+        <nav>
+            <ul>
 <header>
     <img src="carbon armor.jpg" alt="Logotipo del Sitio Web" width="100" height="100">
     <h1>Mi Sitio Web Profesional</h1>
